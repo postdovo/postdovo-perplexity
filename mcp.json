@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "postdovo": {
+      "type": "streamable-http",
+      "url": "https://app.postdovo.com/mcp"
+    }
+  }
+}
